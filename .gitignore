@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Operating system files
+.DS_Store
+
+# Distribution / packaging files
+.Python
+
+# Original data files
+original_data/
+
